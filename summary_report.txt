@@ -1,0 +1,21 @@
+
+=== Summary Report ===
+
+1. Daily Trends:
+- Observed patterns in calories burned and intensity over time show clear variations and trends.
+- Seasonality is present, with weekly cycles influencing both metrics.
+
+2. Correlation Analysis:
+- Positive correlation between intensity and calorie burn suggests a relationship between higher activity and energy expenditure.
+
+3. Hourly Trends:
+- Activity levels and calorie burn peak during specific hours, providing opportunities for targeted interventions.
+
+4. Time Series Decomposition:
+- Long-term trends and seasonal patterns are confirmed for both metrics, indicating consistent user behavior.
+
+5. Forecasting with Prophet:
+- The forecast for the next 30 days suggests potential slight declines in calories burned and intensity.
+- Confidence intervals highlight variability but confirm the overall downward trend.
+
+This analysis provides actionable insights into activity trends and their relationship with energy expenditure, supporting further analysis and interventions.
