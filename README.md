@@ -52,7 +52,7 @@ The project consists of the following major tasks:
 ## How to Run
 
 1. **Clone the Repository:**
-	- git clone https://github.com/CCIEMikeG/Fitness-EDA-Project.git
+	- (https://github.com/kashif45z2003/fitness_eda_Project.git)
 
 2. **cd Fitness-EDA-Project**
 
